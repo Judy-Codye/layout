@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+
+}
+.main{
+    display: flex;
+    gap: 9px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.box{
+    background-image:url(https://assets.science.nasa.gov/content/dam/science/missions/lucy/djencounter_movie_release_v2.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+    padding: 50px;
+    ;
+}
+.box1{
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/spacewalk-4.jpg?resize=1536,1024);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+
+}
+.box2{
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/horseshoe-crabs-at-nasa-kennedy.png);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 190px;
+    padding: 50px;
+    margin-bottom: 20px;
+
+}
+.box3{
+    background-image: url(https://www.nasa.gov/wp-content/uploads/2025/04/nhq202504200003.jpg?resize=1536,867);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 190px;
+    padding: 50px;
+
+
+}
+
+
+
+    
+    
+
+
+    
+
